@@ -38,7 +38,7 @@ LNT_ALL_PROJECTS/
 │       ├── calculator.py
 │       └── test_calculator.py
 │
-├── Dockerised-TO-DO/            # Production-grade Dockerized REST API
+├── Mini_Project_3/              # Production-grade Dockerized REST API
 │   ├── app.py
 │   ├── Dockerfile
 │   ├── docker-compose.yml
@@ -127,7 +127,7 @@ Developer pushes code
 
 ### 2. Dockerised To-Do API
 
-**Directory:** [`Dockerised-TO-DO`](./Dockerised-TO-DO)
+**Directory:** [`Mini_Project_3`](./Mini_Project_3)
 
 A **production-ready, containerized REST API** for to-do management built with Python Flask, multi-stage Docker builds, and Gunicorn as the WSGI server. Designed to be deployed on Docker Hub, Kubernetes, or any container orchestration platform.
 
