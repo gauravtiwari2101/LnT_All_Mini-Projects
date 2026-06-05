@@ -31,7 +31,7 @@ A consolidated repository containing all hands-on projects built during the **Ln
 ```
 LNT_ALL_PROJECTS/
 │
-├── CICD_PIPELINE_DAY3/          # GitHub Actions CI/CD with Python Calculator
+├── Mini_Project_4/              # GitHub Actions CI/CD with Python Calculator
 │   ├── .github/workflows/
 │   │   └── CI.yml
 │   └── Day_3/Project/Calculator/
@@ -78,7 +78,7 @@ LNT_ALL_PROJECTS/
 
 ### 1. CI/CD Pipeline — Day 3
 
-**Directory:** [`CICD_PIPELINE_DAY3`](./CICD_PIPELINE_DAY3)
+**Directory:** [`Mini_Project_4`](./Mini_Project_4)
 
 A complete CI/CD pipeline implementation using **GitHub Actions** built around a Python Calculator application. This project demonstrates how automated pipelines enforce code quality and testing on every commit.
 
