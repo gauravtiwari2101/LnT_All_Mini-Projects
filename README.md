@@ -61,7 +61,7 @@ LNT_ALL_PROJECTS/
 │       ├── plan.yml
 │       └── apply.yml
 │
-├── LnT_Day_4/                   # Kubernetes Deployment with HPA
+├── Mini_Project_8/               # Kubernetes Deployment with HPA
 │   ├── deployment.yaml
 │   ├── hpa.yaml
 │   ├── components.yaml
@@ -320,7 +320,7 @@ Pull Request opened / updated
 
 ### 5. Kubernetes Autoscaling — Day 4
 
-**Directory:** [`LnT_Day_4`](./LnT_Day_4)
+**Directory:** [`Mini_Project_8`](./Mini_Project_8)
 
 A complete **Kubernetes autoscaling setup** demonstrating Horizontal Pod Autoscaler (HPA) with Metrics Server integration. The application is containerized with Nginx and deployed via a Kubernetes Deployment manifest.
 
